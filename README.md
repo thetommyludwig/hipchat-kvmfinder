@@ -1,3 +1,7 @@
+Hipchat plugin built to interface with previous datacenter's portal to update KVM locations.
+
+
+Hipchat's Vagrant file readme:
 # What is this?
 
 This is a basic project that demonstrates how to quickly get started developing a HipChat integration using [ac-koa-hipchat](https://bitbucket.org/atlassianlabs/ac-koa-hipchat).
